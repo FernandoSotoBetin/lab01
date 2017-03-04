@@ -1,0 +1,1 @@
+var animal: string = "Gato";
